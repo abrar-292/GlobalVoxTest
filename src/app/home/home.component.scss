@@ -1,0 +1,22 @@
+.home-section {
+  justify-content: center;
+  padding: 20px;
+}
+
+.btn-div {
+  padding: 10px 20px;
+  text-align: left;
+}
+
+mat-form-field {
+  width: 40%;
+  margin: 10px 20px;
+
+  mat-label span {
+    color: red;
+  }
+}
+
+table {
+  width: 100%;
+}
